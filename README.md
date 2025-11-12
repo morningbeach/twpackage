@@ -1,4 +1,4 @@
-# twpackage — Gift/Gift Box/Gift Set (EN‑first) Demo
+# twpackage  — Gift/Gift Box/Gift Set (EN‑first) Demo
 
 **Stack:** Next.js (App Router) on Cloudflare Pages with `@cloudflare/next-on-pages`, Tailwind, next-intl (default EN).  
 **Goal:** Elegant, fashion-grade static demo with fake data & images. Ready to switch to Workers+D1 later.
