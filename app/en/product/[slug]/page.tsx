@@ -6,8 +6,15 @@ import sets from '@/content/products/en/sets.json'
 
 const all = [...(gifts as any), ...(boxes as any), ...(sets as any)]
 
-export default function ProductDetail({params}:{params:{slug:string}}){
-  const product = all.find(p=>p.slug===params.slug)
-  if(!product) return notFound()
-  return <ProductPage product={product}/>
+type Params = { slug: string }
+
+export default async function ProductDetail({
+  params,
+}: {
+  params: Promise<Params>
+}) {
+  const { slug } = await params
+  const product = all.find((p: any) => p.slug === slug)
+  if (!product) return notFound()
+  return <ProductPage product={product} />
 }
