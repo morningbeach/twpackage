@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "rigid-magnet",
+    "title": "Magnetic Rigid Box",
+    "thumb": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?q=80&w=1600&auto=format&fit=crop",
+    "bullets": [
+      "157g art + 1200gsm",
+      "Foil + emboss",
+      "Diecut insert"
+    ],
+    "moq": 500,
+    "leadTime": "12\u201318 days"
+  },
+  {
+    "slug": "drawer-box",
+    "title": "Drawer Box with Ribbon",
+    "thumb": "https://images.unsplash.com/photo-1606313564200-e75d5e30476e?q=80&w=1600&auto=format&fit=crop",
+    "bullets": [
+      "Greyboard core",
+      "Ribbon puller",
+      "Spot UV"
+    ],
+    "moq": 500,
+    "leadTime": "12\u201318 days"
+  },
+  {
+    "slug": "mailer-box",
+    "title": "Eco Mailer Box",
+    "thumb": "https://images.unsplash.com/photo-1583076266117-20d48f4f5c6b?q=80&w=1600&auto=format&fit=crop",
+    "bullets": [
+      "Kraft E\u2011flute",
+      "1\u2011color flexo",
+      "Fast lead time"
+    ],
+    "moq": 300,
+    "leadTime": "7\u201310 days"
+  },
+  {
+    "slug": "round-tube",
+    "title": "Paper Tube \u2013 Rigid",
+    "thumb": "https://images.unsplash.com/photo-1542393545-10f5cde2c810?q=80&w=1600&auto=format&fit=crop",
+    "bullets": [
+      "Food\u2011grade inner",
+      "Metal lid",
+      "CMYK wrap"
+    ],
+    "moq": 1000,
+    "leadTime": "14\u201320 days"
+  },
+  {
+    "slug": "window-box",
+    "title": "Window Box PET",
+    "thumb": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?q=80&w=1600&auto=format&fit=crop",
+    "bullets": [
+      "PET window",
+      "Crash\u2011lock bottom",
+      "Hang hole"
+    ],
+    "moq": 2000,
+    "leadTime": "12\u201318 days"
+  },
+  {
+    "slug": "book-style",
+    "title": "Book\u2011Style Rigid Box",
+    "thumb": "https://images.unsplash.com/photo-1591474200742-8f2d5d2c7728?q=80&w=1600&auto=format&fit=crop",
+    "bullets": [
+      "Hidden magnet",
+      "Fabric wrap",
+      "Hot\u2011stamping"
+    ],
+    "moq": 500,
+    "leadTime": "12\u201318 days"
+  }
+]

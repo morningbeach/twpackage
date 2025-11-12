@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "scented-candle-glass",
+    "title": "Scented Candle \u2013 Frosted Glass",
+    "thumb": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1600&auto=format&fit=crop",
+    "bullets": [
+      "Soy wax, clean burn",
+      "Custom label & box",
+      "MOQ 300"
+    ],
+    "moq": 300,
+    "leadTime": "10\u201314 days"
+  },
+  {
+    "slug": "stainless-bottle-500",
+    "title": "Stainless Bottle 500ml",
+    "thumb": "https://images.unsplash.com/photo-1613478223719-6e6f3b0b3f7f?q=80&w=1600&auto=format&fit=crop",
+    "bullets": [
+      "BPA\u2011free",
+      "Laser engraving",
+      "Color powder\u2011coat"
+    ],
+    "moq": 200,
+    "leadTime": "12\u201316 days"
+  },
+  {
+    "slug": "linen-tote",
+    "title": "Linen Tote \u2013 Premium",
+    "thumb": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?q=80&w=1600&auto=format&fit=crop",
+    "bullets": [
+      "Recycled linen",
+      "Silk\u2011screen / DTG",
+      "Reinforced handles"
+    ],
+    "moq": 500,
+    "leadTime": "12\u201318 days"
+  },
+  {
+    "slug": "desk-notebook",
+    "title": "Hardcover Notebook A5",
+    "thumb": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?q=80&w=1600&auto=format&fit=crop",
+    "bullets": [
+      "100gsm ivory",
+      "Elastic band",
+      "Ribbon bookmark"
+    ],
+    "moq": 500,
+    "leadTime": "10\u201314 days"
+  },
+  {
+    "slug": "ceramic-mug",
+    "title": "Ceramic Mug 350ml",
+    "thumb": "https://images.unsplash.com/photo-1511537190424-bbbab87ac5eb?q=80&w=1600&auto=format&fit=crop",
+    "bullets": [
+      "Pantone glaze",
+      "Transfer print",
+      "Dishwasher\u2011safe"
+    ],
+    "moq": 300,
+    "leadTime": "14\u201320 days"
+  },
+  {
+    "slug": "leather-keyfob",
+    "title": "Leather Key Fob",
+    "thumb": "https://images.unsplash.com/photo-1516387938699-a93567ec168e?q=80&w=1600&auto=format&fit=crop",
+    "bullets": [
+      "Genuine/vegan",
+      "Deboss/foil",
+      "Gift pouch"
+    ],
+    "moq": 300,
+    "leadTime": "10\u201314 days"
+  }
+]

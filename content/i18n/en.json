@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "products": "Products",
+    "gifts": "Gifts",
+    "boxes": "Packaging Boxes",
+    "sets": "Gift Sets",
+    "solutions": "Solutions",
+    "factory": "Factory",
+    "quality": "Quality",
+    "about": "About",
+    "blog": "Insights",
+    "contact": "Contact"
+  },
+  "cta": {
+    "explore": "Explore Gift Sets",
+    "quote": "Get a Quote"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "tea-ritual-set",
+    "title": "Tea Ritual Gift Set",
+    "thumb": "https://images.unsplash.com/photo-1550159884-fd1a6f5130d6?q=80&w=1600&auto=format&fit=crop",
+    "bullets": [
+      "Loose tea + infuser",
+      "Rigid box insert",
+      "Personalized card"
+    ],
+    "moq": 200,
+    "leadTime": "14\u201320 days"
+  },
+  {
+    "slug": "office-starter",
+    "title": "Office Starter Set",
+    "thumb": "https://images.unsplash.com/photo-1497005367839-6e852de72767?q=80&w=1600&auto=format&fit=crop",
+    "bullets": [
+      "Notebook + pen + bottle",
+      "Branding pack",
+      "Fulfillment ready"
+    ],
+    "moq": 200,
+    "leadTime": "12\u201318 days"
+  },
+  {
+    "slug": "spa-wellness",
+    "title": "Spa & Wellness Set",
+    "thumb": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?q=80&w=1600&auto=format&fit=crop",
+    "bullets": [
+      "Bath salt + candle",
+      "Custom label",
+      "Thank\u2011you note"
+    ],
+    "moq": 150,
+    "leadTime": "14\u201320 days"
+  },
+  {
+    "slug": "coffee-lover",
+    "title": "Coffee Lover Kit",
+    "thumb": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?q=80&w=1600&auto=format&fit=crop",
+    "bullets": [
+      "Beans + dripper",
+      "Rigid drawer box",
+      "Kraft mailer"
+    ],
+    "moq": 150,
+    "leadTime": "12\u201318 days"
+  },
+  {
+    "slug": "holiday-deluxe",
+    "title": "Holiday Deluxe Hamper",
+    "thumb": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?q=80&w=1600&auto=format&fit=crop",
+    "bullets": [
+      "Basket + filler",
+      "Hangtag + ribbon",
+      "Custom sleeve"
+    ],
+    "moq": 100,
+    "leadTime": "18\u201325 days"
+  },
+  {
+    "slug": "corporate-vip",
+    "title": "Corporate VIP Set",
+    "thumb": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=1600&auto=format&fit=crop",
+    "bullets": [
+      "Leather folio",
+      "Metal pen",
+      "Rigid magnet box"
+    ],
+    "moq": 100,
+    "leadTime": "18\u201325 days"
+  }
+]
