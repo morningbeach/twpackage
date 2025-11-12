@@ -8,6 +8,11 @@ const all = [...(gifts as any), ...(boxes as any), ...(sets as any)]
 
 type Params = { slug: string }
 
+// 讓 Next 在 build 時把所有 slug 都預先產生為靜態頁
+export function generateStaticParams() {
+  return all.map((p: any) => ({ slug: p.slug }))
+}
+
 export default async function ProductDetail({
   params,
 }: {
