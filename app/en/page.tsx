@@ -1,12 +1,16 @@
 // app/en/page.tsx
-import { redirect } from "next/navigation";
-
-export const metadata = {
-  title: "Tomorrow Package — Premium Gifts & Packaging",
-  description: "Premium gifts, custom boxes and curated gift sets from TomorrowTW.",
-};
+import Link from 'next/link';
 
 export default function EnHome() {
-  // 這裡如果你有真正首頁內容就渲染；現在先導到預設集合
-  redirect("/en/products/gifts");
+  return (
+    <main className="max-w-5xl mx-auto px-6 py-16">
+      <h1 className="text-4xl font-semibold mb-6">Gifts & Packaging</h1>
+      <p className="text-gray-500 mb-10">Explore our categories:</p>
+      <ul className="grid grid-cols-1 sm:grid-cols-3 gap-6">
+        <li><Link className="block border rounded-xl p-6 hover:shadow" href="/en/products/gifts">Gifts</Link></li>
+        <li><Link className="block border rounded-xl p-6 hover:shadow" href="/en/products/boxes">Boxes</Link></li>
+        <li><Link className="block border rounded-xl p-6 hover:shadow" href="/en/products/sets">Gift Sets</Link></li>
+      </ul>
+    </main>
+  );
 }
