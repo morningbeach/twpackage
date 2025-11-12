@@ -1,5 +1,5 @@
 // app/layout.tsx
-export const runtime = 'edge';
+
 
 import './globals.css';
 
